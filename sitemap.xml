@@ -2,14 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://debug.cool/categories/index.html</loc>
+    <loc>http://debug.cool/2021/04/01/sandboxEscapePy3/</loc>
     
     <lastmod>2021-05-07</lastmod>
     
   </url>
   
   <url>
-    <loc>http://debug.cool/links/index.html</loc>
+    <loc>http://debug.cool/2016/08/01/lifeMind/</loc>
+    
+    <lastmod>2021-05-07</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://debug.cool/2020/02/03/devDiyForm/</loc>
+    
+    <lastmod>2021-05-07</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://debug.cool/2020/12/09/devDiyExpress/</loc>
+    
+    <lastmod>2021-05-07</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://debug.cool/2021/01/20/tipsWSL/</loc>
+    
+    <lastmod>2021-05-07</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://debug.cool/about/index.html</loc>
+    
+    <lastmod>2021-05-07</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://debug.cool/categories/index.html</loc>
     
     <lastmod>2021-05-07</lastmod>
     
@@ -23,7 +58,7 @@
   </url>
   
   <url>
-    <loc>http://debug.cool/about/index.html</loc>
+    <loc>http://debug.cool/links/index.html</loc>
     
     <lastmod>2021-05-07</lastmod>
     
@@ -44,13 +79,6 @@
   </url>
   
   <url>
-    <loc>http://debug.cool/2020/03/15/tipsDoubleSystem/</loc>
-    
-    <lastmod>2021-05-07</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://debug.cool/2017/02/16/tipsLinuxBaseConfig/</loc>
     
     <lastmod>2021-05-07</lastmod>
@@ -58,7 +86,7 @@
   </url>
   
   <url>
-    <loc>http://debug.cool/2020/12/09/devDiyExpress/</loc>
+    <loc>http://debug.cool/2020/03/15/tipsDoubleSystem/</loc>
     
     <lastmod>2021-05-07</lastmod>
     
@@ -72,13 +100,6 @@
   </url>
   
   <url>
-    <loc>http://debug.cool/2018/10/10/noteReverseEnfineering/</loc>
-    
-    <lastmod>2021-05-07</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://debug.cool/2018/07/13/noteElasticStack/</loc>
     
     <lastmod>2021-05-07</lastmod>
@@ -86,7 +107,7 @@
   </url>
   
   <url>
-    <loc>http://debug.cool/2020/02/03/devDiyForm/</loc>
+    <loc>http://debug.cool/2018/10/10/noteReverseEnfineering/</loc>
     
     <lastmod>2021-05-07</lastmod>
     
@@ -107,21 +128,7 @@
   </url>
   
   <url>
-    <loc>http://debug.cool/2021/01/20/tipsWSL/</loc>
-    
-    <lastmod>2021-05-07</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://debug.cool/2019/05/10/devCrack/</loc>
-    
-    <lastmod>2021-05-07</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://debug.cool/2016/08/01/lifeMind/</loc>
     
     <lastmod>2021-05-07</lastmod>
     
@@ -221,6 +228,13 @@
   </url>
   
   <url>
+    <loc>http://debug.cool/tags/ES/</loc>
+    <lastmod>2021-05-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://debug.cool/tags/CentOS/</loc>
     <lastmod>2021-05-07</lastmod>
     <changefreq>daily</changefreq>
@@ -236,13 +250,6 @@
   
   <url>
     <loc>http://debug.cool/tags/MariaDB/</loc>
-    <lastmod>2021-05-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://debug.cool/tags/ES/</loc>
     <lastmod>2021-05-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -294,6 +301,13 @@
   
   <url>
     <loc>http://debug.cool/categories/tips/</loc>
+    <lastmod>2021-05-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://debug.cool/categories/sec/</loc>
     <lastmod>2021-05-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
