@@ -72,14 +72,14 @@
   </url>
   
   <url>
-    <loc>http://debug.cool/2017/02/16/opsLinuxSec/</loc>
+    <loc>http://debug.cool/2017/02/16/tipsLinuxBaseConfig/</loc>
     
     <lastmod>2021-05-07</lastmod>
     
   </url>
   
   <url>
-    <loc>http://debug.cool/2017/02/16/tipsLinuxBaseConfig/</loc>
+    <loc>http://debug.cool/2017/02/16/opsLinuxSec/</loc>
     
     <lastmod>2021-05-07</lastmod>
     
@@ -93,20 +93,6 @@
   </url>
   
   <url>
-    <loc>http://debug.cool/2019/04/20/devKafka/</loc>
-    
-    <lastmod>2021-05-07</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://debug.cool/2018/07/13/noteElasticStack/</loc>
-    
-    <lastmod>2021-05-07</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://debug.cool/2018/10/10/noteReverseEnfineering/</loc>
     
     <lastmod>2021-05-07</lastmod>
@@ -114,14 +100,7 @@
   </url>
   
   <url>
-    <loc>http://debug.cool/2019/02/16/opsCentos7Lamp/</loc>
-    
-    <lastmod>2021-05-07</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://debug.cool/2018/11/20/tipsSolr/</loc>
+    <loc>http://debug.cool/2019/04/20/devKafka/</loc>
     
     <lastmod>2021-05-07</lastmod>
     
@@ -129,13 +108,6 @@
   
   <url>
     <loc>http://debug.cool/2019/05/10/devCrack/</loc>
-    
-    <lastmod>2021-05-07</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://debug.cool/2018/05/25/tipsAntiSpider/</loc>
     
     <lastmod>2021-05-07</lastmod>
     
@@ -156,13 +128,6 @@
   </url>
   
   <url>
-    <loc>http://debug.cool/2015/03/20/lifePersonPlan/</loc>
-    
-    <lastmod>2021-05-07</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://debug.cool/2018/09/04/noteKernelProgram/</loc>
     
     <lastmod>2021-05-07</lastmod>
@@ -170,21 +135,14 @@
   </url>
   
   <url>
+    <loc>http://debug.cool/2015/03/20/lifePersonPlan/</loc>
+    
+    <lastmod>2021-05-07</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://debug.cool/2019/01/25/tipsPythonMatplotlib/</loc>
-    
-    <lastmod>2021-05-07</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://debug.cool/2020/08/15/noteFastJson/</loc>
-    
-    <lastmod>2021-05-07</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://debug.cool/2019/06/20/opsRedis/</loc>
     
     <lastmod>2021-05-07</lastmod>
     
@@ -221,48 +179,6 @@
   </url>
   
   <url>
-    <loc>http://debug.cool/tags/FastJson/</loc>
-    <lastmod>2021-05-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://debug.cool/tags/ES/</loc>
-    <lastmod>2021-05-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://debug.cool/tags/CentOS/</loc>
-    <lastmod>2021-05-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://debug.cool/tags/Apache/</loc>
-    <lastmod>2021-05-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://debug.cool/tags/MariaDB/</loc>
-    <lastmod>2021-05-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://debug.cool/tags/Redis/</loc>
-    <lastmod>2021-05-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://debug.cool/tags/Matplotlib/</loc>
     <lastmod>2021-05-07</lastmod>
     <changefreq>daily</changefreq>
@@ -293,7 +209,7 @@
   </url>
   
   <url>
-    <loc>http://debug.cool/categories/ops/</loc>
+    <loc>http://debug.cool/categories/sec/</loc>
     <lastmod>2021-05-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -307,7 +223,7 @@
   </url>
   
   <url>
-    <loc>http://debug.cool/categories/sec/</loc>
+    <loc>http://debug.cool/categories/ops/</loc>
     <lastmod>2021-05-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
