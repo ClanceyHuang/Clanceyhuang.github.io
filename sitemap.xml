@@ -72,13 +72,6 @@
   </url>
   
   <url>
-    <loc>http://debug.cool/2017/02/16/tipsLinuxBaseConfig/</loc>
-    
-    <lastmod>2021-05-07</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://debug.cool/2017/02/16/opsLinuxSec/</loc>
     
     <lastmod>2021-05-07</lastmod>
@@ -93,7 +86,7 @@
   </url>
   
   <url>
-    <loc>http://debug.cool/2018/10/10/noteReverseEnfineering/</loc>
+    <loc>http://debug.cool/2017/02/16/tipsLinuxBaseConfig/</loc>
     
     <lastmod>2021-05-07</lastmod>
     
@@ -101,6 +94,13 @@
   
   <url>
     <loc>http://debug.cool/2019/04/20/devKafka/</loc>
+    
+    <lastmod>2021-05-07</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://debug.cool/2018/10/10/noteReverseEnfineering/</loc>
     
     <lastmod>2021-05-07</lastmod>
     
@@ -121,7 +121,7 @@
   </url>
   
   <url>
-    <loc>http://debug.cool/2019/01/27/devTaskAssign/</loc>
+    <loc>http://debug.cool/2015/03/20/lifePersonPlan/</loc>
     
     <lastmod>2021-05-07</lastmod>
     
@@ -135,7 +135,7 @@
   </url>
   
   <url>
-    <loc>http://debug.cool/2015/03/20/lifePersonPlan/</loc>
+    <loc>http://debug.cool/2019/01/27/devTaskAssign/</loc>
     
     <lastmod>2021-05-07</lastmod>
     
@@ -209,7 +209,7 @@
   </url>
   
   <url>
-    <loc>http://debug.cool/categories/sec/</loc>
+    <loc>http://debug.cool/categories/ops/</loc>
     <lastmod>2021-05-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -223,7 +223,7 @@
   </url>
   
   <url>
-    <loc>http://debug.cool/categories/ops/</loc>
+    <loc>http://debug.cool/categories/sec/</loc>
     <lastmod>2021-05-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
