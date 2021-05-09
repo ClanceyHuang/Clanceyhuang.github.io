@@ -79,14 +79,14 @@
   </url>
   
   <url>
-    <loc>http://debug.cool/2020/03/15/tipsDoubleSystem/</loc>
+    <loc>http://debug.cool/2017/02/16/tipsLinuxBaseConfig/</loc>
     
     <lastmod>2021-05-07</lastmod>
     
   </url>
   
   <url>
-    <loc>http://debug.cool/2017/02/16/tipsLinuxBaseConfig/</loc>
+    <loc>http://debug.cool/2020/03/15/tipsDoubleSystem/</loc>
     
     <lastmod>2021-05-07</lastmod>
     
@@ -121,6 +121,13 @@
   </url>
   
   <url>
+    <loc>http://debug.cool/2015/03/20/lifePersonPlan/</loc>
+    
+    <lastmod>2021-05-07</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://debug.cool/2019/01/27/devTaskAssign/</loc>
     
     <lastmod>2021-05-07</lastmod>
@@ -129,13 +136,6 @@
   
   <url>
     <loc>http://debug.cool/2018/09/04/noteKernelProgram/</loc>
-    
-    <lastmod>2021-05-07</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://debug.cool/2015/03/20/lifePersonPlan/</loc>
     
     <lastmod>2021-05-07</lastmod>
     
@@ -216,14 +216,14 @@
   </url>
   
   <url>
-    <loc>http://debug.cool/categories/tips/</loc>
+    <loc>http://debug.cool/categories/sec/</loc>
     <lastmod>2021-05-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://debug.cool/categories/sec/</loc>
+    <loc>http://debug.cool/categories/tips/</loc>
     <lastmod>2021-05-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
