@@ -2,14 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://debug.cool/2019/04/20/devKafka/</loc>
-    
-    <lastmod>2021-05-14</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://debug.cool/2019/01/25/tipsPythonMatplotlib/</loc>
+    <loc>http://debug.cool/2016/08/01/lifeMind/</loc>
     
     <lastmod>2021-05-14</lastmod>
     
@@ -23,7 +16,35 @@
   </url>
   
   <url>
+    <loc>http://debug.cool/2019/01/25/tipsPythonMatplotlib/</loc>
+    
+    <lastmod>2021-05-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://debug.cool/2018/03/31/tipsMac/</loc>
+    
+    <lastmod>2021-05-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://debug.cool/2015/08/14/tipsLinuxCommand/</loc>
+    
+    <lastmod>2021-05-14</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://debug.cool/2017/02/16/tipsLinuxBaseConfig/</loc>
+    
+    <lastmod>2021-05-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://debug.cool/2020/03/15/tipsDoubleSystem/</loc>
     
     <lastmod>2021-05-14</lastmod>
     
@@ -44,21 +65,21 @@
   </url>
   
   <url>
-    <loc>http://debug.cool/2020/02/03/devDiyForm/</loc>
+    <loc>http://debug.cool/2018/10/10/noteReverseEnfineering/</loc>
     
     <lastmod>2021-05-14</lastmod>
     
   </url>
   
   <url>
-    <loc>http://debug.cool/2020/12/09/devDiyExpress/</loc>
+    <loc>http://debug.cool/2018/09/04/noteKernelProgram/</loc>
     
     <lastmod>2021-05-14</lastmod>
     
   </url>
   
   <url>
-    <loc>http://debug.cool/2016/08/01/lifeMind/</loc>
+    <loc>http://debug.cool/2015/03/20/lifePersonPlan/</loc>
     
     <lastmod>2021-05-14</lastmod>
     
@@ -66,6 +87,41 @@
   
   <url>
     <loc>http://debug.cool/2021/04/23/hvv2021/</loc>
+    
+    <lastmod>2021-05-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://debug.cool/2019/01/27/devTaskAssign/</loc>
+    
+    <lastmod>2021-05-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://debug.cool/2019/04/20/devKafka/</loc>
+    
+    <lastmod>2021-05-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://debug.cool/2020/02/03/devDiyForm/</loc>
+    
+    <lastmod>2021-05-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://debug.cool/2019/05/10/devCrack/</loc>
+    
+    <lastmod>2021-05-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://debug.cool/2020/12/09/devDiyExpress/</loc>
     
     <lastmod>2021-05-14</lastmod>
     
@@ -86,13 +142,6 @@
   </url>
   
   <url>
-    <loc>http://debug.cool/404.html</loc>
-    
-    <lastmod>2021-05-07</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://debug.cool/links/index.html</loc>
     
     <lastmod>2021-05-07</lastmod>
@@ -100,63 +149,14 @@
   </url>
   
   <url>
+    <loc>http://debug.cool/404.html</loc>
+    
+    <lastmod>2021-05-07</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://debug.cool/tags/index.html</loc>
-    
-    <lastmod>2021-05-07</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://debug.cool/2020/03/15/tipsDoubleSystem/</loc>
-    
-    <lastmod>2021-05-07</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://debug.cool/2018/10/10/noteReverseEnfineering/</loc>
-    
-    <lastmod>2021-05-07</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://debug.cool/2019/05/10/devCrack/</loc>
-    
-    <lastmod>2021-05-07</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://debug.cool/2015/08/14/tipsLinuxCommand/</loc>
-    
-    <lastmod>2021-05-07</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://debug.cool/2019/01/27/devTaskAssign/</loc>
-    
-    <lastmod>2021-05-07</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://debug.cool/2015/03/20/lifePersonPlan/</loc>
-    
-    <lastmod>2021-05-07</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://debug.cool/2018/09/04/noteKernelProgram/</loc>
-    
-    <lastmod>2021-05-07</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://debug.cool/2018/03/31/tipsMac/</loc>
     
     <lastmod>2021-05-07</lastmod>
     
