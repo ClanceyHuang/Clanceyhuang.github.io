@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://debug.cool/"/>
-  <updated>2021-05-13T08:25:37.113Z</updated>
+  <updated>2021-05-14T12:41:13.577Z</updated>
   <id>http://debug.cool/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2021HVV漏洞公布</title>
+    <link href="http://debug.cool/2021/04/23/hvv2021/"/>
+    <id>http://debug.cool/2021/04/23/hvv2021/</id>
+    <published>2021-04-23T07:44:00.000Z</published>
+    <updated>2021-05-14T12:41:13.577Z</updated>
+    
+    <content type="html"><![CDATA[<p>2021护网15天，初步统计公布了47个漏洞，整理如下。</p><span id="more"></span><h2 id="20210408"><a class="markdownIt-Anchor" href="#20210408"></a> 2021.04.08</h2><ul><li><p>启明星辰天清汉马 USG 防火墙存在逻辑缺陷漏洞（历史漏洞） |  CNVD-2021-17391</p></li><li><p>启明星辰天清汉马 USG 防火墙存在逻辑缺陷漏洞（历史漏洞） |  CNVD-2021-17391  [启明星辰 天清汉马 USG 防火墙 逻辑缺陷漏洞  CNVD-2021-12793 ]</p></li><li><p>禅道项目管理软件 11.6  | [禅道 11.6  sql注入漏洞]</p></li><li><p>金山WPS（历史漏洞 CVE-2020-25291） | 通过点击触发 WPS 内置浏览器RCE [金山 WPS 存在远程堆损坏漏洞]</p></li><li><p>金山 V8/V9 终端安全系统 | [金山 V8 -V9  终端安全系统漏洞合集]</p></li><li><p>金山 V8 终端安全系统 | [金山 V8 终端安全系统 pdf <code>maker.php</code> 命令执行漏洞]</p></li><li><p>天擎  | [天擎越权访问]</p></li><li><p>致远OA | [致远OA <code>ajax.do</code> 任意文件上传漏洞]</p></li><li><p>致远OA | [致远OA 前台 getshell 复现][致远OA任意文件上传]</p></li><li><p>齐治堡垒机 | 存在命令执行漏洞，POC疑似已流出</p></li><li><p>深信服EDR（历史漏洞） | [深信服EDR远程命令执行 CNVD-2020-46552]</p></li><li><p>深信服VPN（历史漏洞） | [深信服 SSL VPN 客户端远程文件下载]</p></li><li><p>jackson  | 存在反序列化漏洞，POC疑似已流出</p></li><li><p>tomcat  | 存在反序列化命令执行漏洞，POC疑似已流出</p></li><li><p>泛微OA9 | [泛微OA9前台任意文件上传])</p></li><li><p>泛微OA8 | [泛微OA8前台SQL注入]</p></li><li><p>CoreMail  | [Coremail文件上传漏洞POC - 钓鱼]</p></li><li><p>用友NC6.5 | [用友NC反序列化] [用友 NC 反序列化RCE漏洞]</p></li><li><p>dubbo  | 存在反序列化命令执行漏洞，POC疑似已流出</p></li><li><p>Weblogic  | [某weblogic的T3反序列化0day分析] [Weblogic T3 反序列化远程代码执行漏洞]</p></li><li><p>和信创天云桌面全版本 | [和信创天云桌面命令执行][和信创天云桌面系统 远程命令执行 RCE漏洞]</p></li><li><p>红帆OA | 存在任意文件写入漏洞，POC疑似已流出</p></li><li><p>Exchange  | [Microsoft Exchange Server远程执行代码漏洞]</p></li><li><p>Shiro  | 存在Nday漏洞，POC疑似已流出</p></li><li><p>金蝶云K3Cloud全版本 | 存在命令执行漏洞，，POC疑似已流出</p></li><li><p>用友U8Cloud版本 | 存在命令执行，POC疑似已流出</p></li><li><p>H3C计算机管理平台2016年版本 | [H3C SecPath运维审计系统任意用户登录漏洞] 18号获取详细信息</p></li><li><p>帆软V9 | [帆软 V9getshell FineReport V9] [帆软 V9 任意文件覆盖文件上传]</p></li><li><p>天眼  | 存在0day漏洞，POC疑似已流出</p></li><li><p>默安蜜罐管理平台 | [默安蜜罐管理平台未授权问]</p></li><li><p>Jellyfin&lt;10.7.1版本（历史漏洞） | [Jellyfin未授权任意文件读取</p></li><li><p>用友ERP-NC | 存在目录遍历漏洞</p></li><li><p>快排CMS | [快排CMS 任意文件上传漏洞]</p></li><li><p>快排CMS | [快排CMS 信息泄露漏洞]</p></li><li><p>快排CMS | [快排CMS 后台XSS漏洞]</p></li></ul><h2 id="20210409"><a class="markdownIt-Anchor" href="#20210409"></a> 2021.04.09</h2><ul><li><p>Apache Solr | [apache Solr 存在任意文件读取]</p></li><li><p>亿邮电子邮件系统 | [亿邮电子邮件系统 远程命令执行漏洞]</p></li><li><p>天融信DLP | [天融信dlp-未授权+越权]</p></li><li><p>奇安信VPN | [奇安信VPN前台存在RCE]</p></li><li><p>DzzOffice≤2.02 | [DzzOffice最新版RCE(随机数问题)]</p></li><li><p>蓝凌OA | [蓝凌oa任意文件写入]</p></li><li><p>蓝凌OA | [蓝凌OA EKP 后台SQL注入漏洞 CNVD-2021-01363][蓝凌OA EKP 后台SQL注入漏洞 CNVD-2021-01363]</p></li><li><p>致远OA | [致远OA远程代码执行漏洞]</p></li><li><p>浪潮云ClusterEngineV4.0 | [浪潮 ClusterEngineV4.0 任意命令执行]</p></li><li><p>OneBlog≤V2.2.1 | [OneBolg远程命令执行][OneBlog 小于v2.2.1 远程命令执行漏洞]</p></li></ul><h2 id="20210410"><a class="markdownIt-Anchor" href="#20210410"></a> 2021.04.10</h2><ul><li><p>浪潮云ClusterEngineV4.0 | [浪潮ClusterEngineV4.0 sysShell 任意命令执行漏洞]</p></li><li><p>浪潮云ClusterEngineV4.0 | [浪潮ClusterEngineV4.0 任意用户登录漏洞]</p></li><li><p>齐治堡垒机 | [齐治堡垒机任意用户登录漏洞]</p></li><li><p>山终端安全系统 V8/V9 | [金山终端安全系统 V8/V9存在文件上传漏洞]</p></li><li><p>奇安信NS-NGFW 网康防火墙 | [奇安信 网康下一代防火墙 RCE</p></li><li><p>云尚在线客服系统 | 存在任意文件上传</p></li><li><p>泛微OA8 e-mobile | [泛微OA  e-mobile4.0-6.6 SQL注入漏洞]</p></li><li><p>泛微OA8 e-mobile | [泛微e-mobile 0day]</p></li></ul><h2 id="20210411"><a class="markdownIt-Anchor" href="#20210411"></a> 2021.04.11</h2><ul><li><p>FOFA指纹 title=“流媒体管理服务器” | [HIKVISION 流媒体管理服务器 后台任意文件读取漏洞 CNVD-2021-14544]</p></li><li><p>Fastjson 0day | 疑似0day，视频确认存在</p></li><li><p>Apache Solr | [Apache Solr 任意文件下载/SSRF POC]</p></li></ul><h2 id="20210412"><a class="markdownIt-Anchor" href="#20210412"></a> 2021.04.12</h2><ul><li><p>Google Chrome≤89.0.4389.114 | [Chrome 远程代码执行0Day漏洞]</p></li><li><p>Nagios Network Analyzer | [Nagios Network Analyzer SQL 注入漏洞- CVE-2021-28925]</p></li><li><p>蓝凌OA | [蓝凌OA密码重置漏洞]</p></li><li><p>瑞捷  | [锐捷RG-UAC统一上网行为管理审计系统存在账号密码信息泄露][锐捷 RG-UAC 统一上网行为管理审计系统 账户硬编码漏洞]</p></li></ul><h2 id="20210413"><a class="markdownIt-Anchor" href="#20210413"></a> 2021.04.13</h2><ul><li><p>IBOS数据库模块 | [IBOS 数据库模块 任意文件上传漏洞]</p></li><li><p>PHP zerodium | [PHP zerodium后门漏洞]</p></li><li><p>迅雷  | [迅雷11存在二进制漏洞 - CNVD-2021-18274]</p></li><li><p>Apache Solr | [Apache Solr服务器端请求伪造漏洞 - CVE-2021-27905]</p></li><li><p>Apache Solr | [Apache Solr数据集读写漏洞 - CVE-2021-29943]</p></li><li><p>Apache Solr | [Apache Solr敏感信息泄漏漏洞 - CVE-2021-29262]</p></li></ul><h2 id="20210414"><a class="markdownIt-Anchor" href="#20210414"></a> 2021.04.14</h2><ul><li><p>Apache OFBiz反序列化漏洞 | [Apache OFBiz RMI反序列化漏洞 CVE-2021-26295]</p></li><li><p>EMP平台 | [EMP平台任意文件上传漏洞]</p></li><li><p>JD-FreeFuck后台命令执行 | [JD-FreeFuck 后台命令执行漏洞]</p></li><li><p>Microsoft Exchange | [Microsoft Exchange Server远程执行代码漏洞]</p></li><li><p>天融信（历史漏洞） | [天融信接入网关系统存在弱口令 - CNVD-2021-08407</p></li><li><p>奇安信天擎终端安全管理系统 | 存在任意文件上传</p></li><li><p>Google Chrome V8引擎 | [Google ChromeV8引擎远程代码执行0day漏洞]</p></li></ul><h2 id="20210415"><a class="markdownIt-Anchor" href="#20210415"></a> 2021.04.15</h2><ul><li><p>通达OA | [通达OA存在命令执行漏洞 - CNVD-2021-21890]</p></li><li><p>Joomla | [Joomla XSS漏洞]</p></li><li><p>TongWeb | [tongweb文件上传漏洞]</p></li></ul><h2 id="20210416"><a class="markdownIt-Anchor" href="#20210416"></a> 2021.04.16</h2><ul><li><p>Weblogic  | [ Weblogic   T3  反序列化远程代码执行漏洞]</p></li><li><p>微信  | [青藤捕获在野微信 0day 漏洞（ chrome   0day 利用）][利用微信内置浏览器 Chrome 漏洞实现远控]</p></li><li><p>浪潮 ERP  | [浪潮 ERP 系统远程代码执行漏洞]</p></li></ul><h2 id="20210417"><a class="markdownIt-Anchor" href="#20210417"></a> 2021.04.17</h2><ul><li><p>深信服 | [深信服安全感知平台存在存储型跨站脚本漏洞</p></li><li><p>泛微  | [泛微某系统疑似存在文件上传漏洞]</p></li><li><p>TP-COUPON  | [ TP-COUPON 存在 SQL 注入漏洞 -  CNVD-2021-21889 ]</p></li></ul><h2 id="20210418"><a class="markdownIt-Anchor" href="#20210418"></a> 2021.04.18</h2><ul><li><p>小鱼易连视频会议系统 | [小鱼易连视频会议系统存在 0day ]</p></li><li><p>H3C   SecPath 运维审计系统 | [ H3C   SecPath 运维审计系统任意用户登录漏洞]</p></li><li><p>Coremail  | [历史漏洞 oremail  邮箱系统路径穿越漏洞]</p></li></ul><h2 id="20210420"><a class="markdownIt-Anchor" href="#20210420"></a> 2021.04.20</h2><ul><li>微信  | [微信最新版本 3.2.11.151   Google 内核 poc 利用上线 cs 方式]</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;2021护网15天，初步统计公布了47个漏洞，整理如下。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="dev" scheme="http://debug.cool/categories/dev/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>Python3的一个沙箱逃逸技巧</title>
