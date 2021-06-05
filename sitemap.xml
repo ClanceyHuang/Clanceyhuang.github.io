@@ -2,6 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://debug.cool/2018/10/10/noteReverseEnfineering/</loc>
+    
+    <lastmod>2021-06-05</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://debug.cool/2018/09/04/noteKernelProgram/</loc>
+    
+    <lastmod>2021-06-05</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://debug.cool/2019/01/27/devTaskAssign/</loc>
+    
+    <lastmod>2021-06-05</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://debug.cool/2020/02/03/devDiyForm/</loc>
+    
+    <lastmod>2021-06-05</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://debug.cool/2020/12/09/devDiyExpress/</loc>
+    
+    <lastmod>2021-06-05</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://debug.cool/2019/05/10/devCrack/</loc>
+    
+    <lastmod>2021-06-05</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://debug.cool/2018/03/26/stocksCom/</loc>
     
     <lastmod>2021-05-18</lastmod>
@@ -72,20 +114,6 @@
   </url>
   
   <url>
-    <loc>http://debug.cool/2018/10/10/noteReverseEnfineering/</loc>
-    
-    <lastmod>2021-05-14</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://debug.cool/2018/09/04/noteKernelProgram/</loc>
-    
-    <lastmod>2021-05-14</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://debug.cool/2015/03/20/lifePersonPlan/</loc>
     
     <lastmod>2021-05-14</lastmod>
@@ -100,35 +128,7 @@
   </url>
   
   <url>
-    <loc>http://debug.cool/2019/01/27/devTaskAssign/</loc>
-    
-    <lastmod>2021-05-14</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://debug.cool/2019/04/20/devKafka/</loc>
-    
-    <lastmod>2021-05-14</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://debug.cool/2020/02/03/devDiyForm/</loc>
-    
-    <lastmod>2021-05-14</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://debug.cool/2020/12/09/devDiyExpress/</loc>
-    
-    <lastmod>2021-05-14</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://debug.cool/2019/05/10/devCrack/</loc>
     
     <lastmod>2021-05-14</lastmod>
     
@@ -149,14 +149,14 @@
   </url>
   
   <url>
-    <loc>http://debug.cool/links/index.html</loc>
+    <loc>http://debug.cool/404.html</loc>
     
     <lastmod>2021-05-07</lastmod>
     
   </url>
   
   <url>
-    <loc>http://debug.cool/404.html</loc>
+    <loc>http://debug.cool/links/index.html</loc>
     
     <lastmod>2021-05-07</lastmod>
     
@@ -179,7 +179,7 @@
 
   <url>
     <loc>http://debug.cool/</loc>
-    <lastmod>2021-05-18</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -189,49 +189,49 @@
   
   <url>
     <loc>http://debug.cool/categories/dev/</loc>
-    <lastmod>2021-05-18</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://debug.cool/categories/life/</loc>
-    <lastmod>2021-05-18</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://debug.cool/categories/sec/</loc>
-    <lastmod>2021-05-18</lastmod>
+    <lastmod>2021-06-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://debug.cool/categories/life/</loc>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://debug.cool/categories/notes/</loc>
-    <lastmod>2021-05-18</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://debug.cool/categories/ops/</loc>
-    <lastmod>2021-05-18</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://debug.cool/categories/stocks/</loc>
-    <lastmod>2021-05-18</lastmod>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://debug.cool/categories/tips/</loc>
-    <lastmod>2021-05-18</lastmod>
+    <lastmod>2021-06-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://debug.cool/categories/stocks/</loc>
+    <lastmod>2021-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
