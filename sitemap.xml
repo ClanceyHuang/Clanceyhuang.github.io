@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://debug.cool/2019/05/10/devCrack/</loc>
+    
+    <lastmod>2021-06-08</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://debug.cool/about/index.html</loc>
     
     <lastmod>2021-06-08</lastmod>
@@ -44,13 +51,6 @@
   </url>
   
   <url>
-    <loc>http://debug.cool/2019/05/10/devCrack/</loc>
-    
-    <lastmod>2021-06-05</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://debug.cool/2018/03/26/stocksCom/</loc>
     
     <lastmod>2021-05-18</lastmod>
@@ -79,13 +79,6 @@
   </url>
   
   <url>
-    <loc>http://debug.cool/2018/03/31/tipsMac/</loc>
-    
-    <lastmod>2021-05-14</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://debug.cool/2015/08/14/tipsLinuxCommand/</loc>
     
     <lastmod>2021-05-14</lastmod>
@@ -93,28 +86,7 @@
   </url>
   
   <url>
-    <loc>http://debug.cool/2017/02/16/tipsLinuxBaseConfig/</loc>
-    
-    <lastmod>2021-05-14</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://debug.cool/2020/03/15/tipsDoubleSystem/</loc>
-    
-    <lastmod>2021-05-14</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://debug.cool/2021/04/01/sandboxEscapePy3/</loc>
-    
-    <lastmod>2021-05-14</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://debug.cool/2017/02/16/opsLinuxSec/</loc>
     
     <lastmod>2021-05-14</lastmod>
     
@@ -195,14 +167,14 @@
   </url>
   
   <url>
-    <loc>http://debug.cool/categories/life/</loc>
+    <loc>http://debug.cool/categories/sec/</loc>
     <lastmod>2021-06-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://debug.cool/categories/sec/</loc>
+    <loc>http://debug.cool/categories/life/</loc>
     <lastmod>2021-06-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -217,13 +189,6 @@
   
   <url>
     <loc>http://debug.cool/categories/stocks/</loc>
-    <lastmod>2021-06-08</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://debug.cool/categories/ops/</loc>
     <lastmod>2021-06-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
